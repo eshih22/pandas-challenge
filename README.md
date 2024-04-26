@@ -1,10 +1,10 @@
-Background:
+#Background:
 You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
 
-Results:
+#Results:
 PyCity Schools Analysis
 Summary School Type: Charter school students have an overall passing rate of 90%, compared to only 53% of students passing in district schools. Looking into the individual subjects, the greatest descrepancy is in Math, where 93% of charter school students pass, while only 66% pass among their counterparts in district schools. Math needs to be an area of focus for District Schools.
 
